@@ -2,7 +2,7 @@ Area of the French wine cepages per year.
 
 ## Data
 
-Data is extracted from the [Observatoire de la viticulture française](http://www.observatoire-viti-france.com) maintained by FranceAgriMer.
+Data is extracted from the [Observatoire de la viticulture française](https://www.franceagrimer.fr/Eclairer/Outils/Observatoires/Observatoire-de-la-viticulture-francaise) maintained by FranceAgriMer.
 
 The data is provided as CSV.
 
